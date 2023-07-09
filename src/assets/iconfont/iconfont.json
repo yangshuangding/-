@@ -1,0 +1,37 @@
+{
+  "id": "4117220",
+  "name": "likede",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "35941164",
+      "name": "标签-copy",
+      "font_class": "biaoqian",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "35941079",
+      "name": "奖杯-copy",
+      "font_class": "jiangbei1",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "35941086",
+      "name": "奖杯-copy",
+      "font_class": "jiangbei2",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "35941090",
+      "name": "奖杯-copy",
+      "font_class": "jiangbei3",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}
